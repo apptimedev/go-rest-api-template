@@ -1,11 +1,11 @@
 # Essential Go Rest API Example
-## foruscommunity/go-rest-api-example
+## apptimedev/go-rest-api-template
 
-[![Forus App](https://forus.app/icons/icon-128x128.png)](https://forus.app)
+[![Apptime](https://apptime.dev/icons/icon-128x128.png)](https://apptime.dev)
 
 ---
 
-Application `foruscommunity/go-rest-api-example` helps you to create a Rest API project.
+Application `apptimedev/go-rest-api-template` helps you to create a Rest API project.
 
 ---
 
@@ -19,8 +19,8 @@ Application `foruscommunity/go-rest-api-example` helps you to create a Rest API 
 ## Clone the project
 
 ```sh
-$ git clone https://github.com/foruscommunity/go-rest-api-example
-$ cd go-rest-api-example
+$ git clone https://github.com/apptimedev/go-rest-api-template
+$ cd go-rest-api-template
 ```
 
 ---
